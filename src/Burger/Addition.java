@@ -18,9 +18,4 @@ public class Addition {
         return price;
     }
 
-    @Override
-    public String toString() {
-        return this.name;
-    }
-
 }
